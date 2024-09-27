@@ -15,4 +15,4 @@ To run the calculator, you need Python installed along with Tkinter. You can ins
 ```bash
 sudo pacman -S tk
 
-Screenshot_26-Sep_22-59-45_18948.png
+./Screenshot_26-Sep_22-59-45_18948.png
