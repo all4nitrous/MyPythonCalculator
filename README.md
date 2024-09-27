@@ -17,5 +17,6 @@ sudo pacman -S tk
 
 ## Screenshot
 
-./Screenshot_26-Sep_22-59-45_18948.png
+![Python Calculator Screenshot](./Screenshot_26-Sep_22-59-45_18948.png)
+
 
