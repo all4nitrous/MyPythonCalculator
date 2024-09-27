@@ -17,7 +17,6 @@ sudo pacman -S tk
 
 ## Screenshot
 
-(/main/Screenshot_26-Sep_22-59-45_18948.png)
-
+(main/Screenshot_26-Sep_22-59-45_18948.png)
 
 
