@@ -17,6 +17,6 @@ sudo pacman -S tk
 
 ## Screenshot
 
-![Alt text](https://example.com/path/to/image.png)
+![Alt text](https://github.com/all4nitrous/MyPythonCalculator/blob/main/Screenshot_26-Sep_22-59-45_18948.png?raw=true)
 
 
