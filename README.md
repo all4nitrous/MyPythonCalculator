@@ -15,6 +15,6 @@ To run the calculator, you need Python installed along with Tkinter. You can ins
 ```bash
 sudo pacman -S tk
 
-(./MyPythonCalculator/Screenshot_26-Sep_22-59-45_18948.png)
+./MyPythonCalculator/Screenshot_26-Sep_22-59-45_18948.png
 
 
