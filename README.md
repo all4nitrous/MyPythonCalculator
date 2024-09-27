@@ -7,7 +7,7 @@ This project is a simple calculator built using Python and Tkinter for the graph
 - Graphical interface built using Tkinter
 - Custom exception handling for division by zero
 
-## Installation
+## Use
 
 To run the calculator, you need Python installed along with Tkinter. You can install the necessary dependencies with the following command:
 
@@ -15,4 +15,7 @@ To run the calculator, you need Python installed along with Tkinter. You can ins
 ```bash
 sudo pacman -S tk
 
-./MyPythonCalculator/Screenshot_26-Sep_22-59-45_18948.png
+## Screenshot
+
+![Python Calculator Screenshot](./Screenshot_26-Sep_22-59-45_18948.png)
+
