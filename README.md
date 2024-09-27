@@ -6,7 +6,7 @@ This project is a simple calculator built using Python and Tkinter for the graph
 - Basic arithmetic operations (addition, subtraction, multiplication, and division)
 - Graphical interface built using Tkinter
 - Custom exception handling for division by zero
-
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 ## Use
 
 To run the calculator, you need Python installed along with Tkinter. You can install the necessary dependencies with the following command:
